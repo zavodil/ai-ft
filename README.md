@@ -11,7 +11,11 @@ The coolest part? You can raid other $RAID holders. Send tokens to challenge the
 
 Found someone with 10 $RAID? Send them 10 tokens to trigger a battle. Win = you get their 10 tokens. Lose = they get your 10 tokens. Pure zero-sum gaming.
 
+---
+
 Smart contract: token.raidvault.near
+
 AI agent to chat https://app.near.ai/agents/agent.raidvault.near/ft/latest/run He might be wrong in his answers; check his source code if you need precise answers
+
 Example tx: https://nearblocks.io/txns/GZVwPpCTCFeXfpKmAW26Hztb6LamCubs7PbDYLSeZyVS
 
